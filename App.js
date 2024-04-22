@@ -14,7 +14,7 @@ const BirthdayInvitation = () => {
         >
           <h1>Special birthday Invitation</h1>
           <p>You're invited to celebrate</p>
-          <h2>Deepanshu's Birthday!</h2>
+          <h2>Deepanshu's 27th Birthday!</h2>
           <p>Date: April 27th, 2024</p>
           <p>Location: Reset/wherelse</p>
           <p>Let’s make some amazing memories!</p>
